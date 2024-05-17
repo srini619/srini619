@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 - 💬 Result oriented and passionate Node js developer with 3 years of hands on experience in developing, building efficient and reliable server-side applications using Node js, Typescript, Typeorm and other relevant technologies. <br>
-Ever curious about geopolitics, bulletin, stock market and tech.
+- :dizzy: Ever curious about geopolitics, bulletin, stock market and tech.
 
 
 <h3 align="left">Connect with me:</h3>
